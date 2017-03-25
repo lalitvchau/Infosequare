@@ -1,0 +1,103 @@
+
+#div1:hover
+{
+    box-shadow:0 0 10px black;
+    text-shadow:0 0 10px black;
+    background-color:#ffffcc;
+}
+#div1
+{
+     border:2px;
+     border-radius:2px;
+     box-shadow:0 0 10px black;
+     padding:0px;
+}
+#t2:hover
+{
+     box-shadow:0 0 10px black;
+     text-shadow:0 0 10px black;
+     background-color:#ffffcc;
+}
+#t2
+{
+     border:2px;
+     border-radius:2px;
+     box-shadow:0 0 10px black;
+     text-align:center;
+}
+
+a:link
+{
+ 	color:white;
+    text-decoration:none;
+}
+a:active
+{
+    color:white;
+    text-decoration:none;
+}
+a:hover
+{	
+    color:white;
+    text-decoration:none;
+    background-color:#FF6347;
+}
+a:visited
+{
+    color:white;text-decoration:none;
+}
+#menus
+{
+    background-color:#7B68EE;
+    text-shadow:10px 5px 5px black;
+    border-radius: 5px;
+}
+#menus:hover
+{
+    background-color:#008080;
+    text-shadow:10px 5px 5px black;
+    border-radius: 5px;
+}
+#logo:hover
+{
+    color:#ff1493;
+    text-shadow:0 0 7px white;
+}
+#tdHome{
+    margin:2px;
+    border-style: solid;
+    border-width: 2px;
+    border-color:black;
+}
+#tdHome:hover{
+    border-style: solid;
+    border-width: 2px;
+    border-color:blue;
+}
+#tbHome{
+    border-style: solid;
+    border-width: 7px;
+    border-color:white;
+}
+#tbHome:hover{
+    text-shadow:0 0 7px red;
+    -webkit-filter: blur(1px);
+    -moz-filter: blur(1px);
+     -o-filter: blur(1px);
+     -ms-filter: blur(1px);
+     filter: blur(1px);
+}
+#homeBanner{
+    height:400px;
+    background-color:darkorange;
+    background-image:url('/content/dam/Infosquare/homebanner.jpg');
+    background-size: 100% 100%;
+
+}
+#homeBanner:hover{
+    height:400px;
+    background-color:darkorange;
+    background-image:url('/content/dam/Infosquare/homebanner.jpg');
+    background-size: 120% 120%;
+
+}
